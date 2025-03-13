@@ -3,6 +3,7 @@ This is a simple Rock-Paper-Scissors game developed using HTML, CSS, and JavaScr
 
 <h1>Features</h1>
 <br/>
+
 * Interactive UI with real-time gameplay. <br/>
 
 * Randomized computer choices for fairness. <br/>
@@ -11,11 +12,12 @@ This is a simple Rock-Paper-Scissors game developed using HTML, CSS, and JavaScr
 
 <h1>How to Play</h1>
 <br/>
+
 * Choose between Rock, Paper, or Scissors. <br/>
 
 * The computer makes its choice. <br/>
 
 * See the result and scores instantly! <br/>
 
-Author - Arslan(arsu_coder)
+<footer>Author - Arslan(arsu_coder)</footer>
 
